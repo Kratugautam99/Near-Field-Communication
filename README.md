@@ -23,15 +23,20 @@ near-field-communication/
 ├── package.json          # Node.js dependencies and scripts
 ├── server.js             # Express server for Web NFC
 ```
+--- 
 
 ## 🧠 About the Project
+
 This repository demonstrates two approaches to NFC interaction:
 
-Web NFC: Uses the experimental Web NFC API to read/write NFC tags via supported browsers.
+(A) Web NFC: Uses the experimental Web NFC API to read/write NFC tags via supported browsers.
 
-Android NFC App: A Kotlin-based mobile app built with Android Studio that supports reading and writing NDEF messages from physical NFC tags.
+(B) Android NFC App: A Kotlin-based mobile app built with Android Studio that supports reading and writing NDEF messages from physical NFC tags.
+
+--- 
 
 ## 🛠️ Technologies Used
+
 Frontend: HTML, CSS, JavaScript
 
 Backend: Node.js, Express
@@ -40,22 +45,31 @@ Mobile: Kotlin, Android SDK
 
 Deployment: Vercel (for Web NFC)
 
+---
+
 ## 📚 Topics Covered
-NFC tag detection and reading
 
-Writing NDEF messages
+1) NFC tag detection and reading
 
-RFID tag compatibility
+2) Writing NDEF messages (In Progress)
 
-Web NFC API integration
+3) RFID tag compatibility
 
-Android NFC development
+4) Web NFC API integration
+
+5) Android NFC development
+
+---
 
 ## 📄 License
 This project is licensed under the MIT License. See license.txt for details.
 
+---
+
 ## 🙌 Contributing
 Pull requests are welcome! If you’d like to improve the app, fix bugs, or expand functionality, feel free to fork the repo and submit a PR.
+
+---
 
 ## ✨ Acknowledgments
 Thanks to the pioneers of Web NFC and the open-source Android community for making NFC development accessible and exciting.
