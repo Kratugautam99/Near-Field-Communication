@@ -1,6 +1,6 @@
-# 📡 Near-Field-Communication
+# 📡 Near-Field-Communication-Project
 
-Welcome to **Near-Field-Communication**, a dual-platform solution for interacting with NFC (Near Field Communication) tags and devices. This project combines the power of Web NFC and a native Android NFC reader app to offer seamless tag detection, reading, and writing capabilities.
+Welcome to **Near-Field-Communication-Project**, a dual-platform solution for interacting with NFC (Near Field Communication) tags and devices. This project combines the power of Web NFC and a native Android NFC reader app to offer seamless tag detection, reading, and writing capabilities.
 
 ---
 
